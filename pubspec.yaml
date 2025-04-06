@@ -1,7 +1,7 @@
 repository: https://github.com/untreu2/nostr-nip19
 name: nostr_nip19
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+description: A Dart library for encoding and decoding Nostr keys and identifiers (npub, nsec, note, nprofile, nevent) using the NIP-19 Bech32 format.
+version: 0.1.0
 
 environment:
     sdk: ^3.7.2
