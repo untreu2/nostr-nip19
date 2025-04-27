@@ -1,4 +1,4 @@
-# nostr-nip19
+# nostr_nip19
 
 > A Dart library for encoding and decoding Nostr [NIP-19](https://github.com/nostr-protocol/nips/blob/master/19.md) identifiers using Bech32.
 
